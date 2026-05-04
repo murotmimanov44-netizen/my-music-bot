@@ -1,3 +1,0 @@
-pyrogram
-https://github.com/pytgcalls/pytgcalls/archive/refs/tags/v3.0.0-dev.24.zip
-yt-dlp
