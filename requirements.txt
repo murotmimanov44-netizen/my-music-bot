@@ -1,4 +1,0 @@
-pyrogram
-pytgcalls==1.1.2
-yt-dlp
-ffmpeg-python
